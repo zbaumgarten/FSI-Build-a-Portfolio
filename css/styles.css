@@ -1,0 +1,18 @@
+body{}
+
+h1, h2 {
+    background-color:crimson;
+    font-family: 'Trebuchet MS';
+    font-size: larger;
+    text-align: center;
+
+}
+
+div {
+    
+    text-align: center;
+}
+p {
+    font-family: Georgia, serif;
+    text-shadow: indigo;
+}
