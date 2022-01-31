@@ -1,4 +1,4 @@
-header {
+body {
     background-color:crimson;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: larger;
@@ -9,6 +9,6 @@ div {
     text-align: center;
 }
 p{
-    font-family: cursive;
-    text-decoration: wavy;
+    text-align: center;
+    text-decoration: wavy underline;
 }
